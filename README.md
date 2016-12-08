@@ -1,4 +1,4 @@
-# [Glitch Creations](http://glitchcreations.io): a website for my creations
+# [Glitch Creations](http://glitchcreations.io) webdocs
 
 # License
 
